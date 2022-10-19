@@ -1,3 +1,0 @@
-C:\Users\trema\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.4345.21\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\HW2.dir/objects.a
-C:\Users\trema\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.4345.21\bin\mingw\bin\ar.exe qc CMakeFiles\HW2.dir/objects.a @CMakeFiles\HW2.dir\objects1.rsp
-C:\Users\trema\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.4345.21\bin\mingw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\HW2.dir/objects.a -Wl,--no-whole-archive -o HW2.exe -Wl,--out-implib,libHW2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\HW2.dir\linklibs.rsp
